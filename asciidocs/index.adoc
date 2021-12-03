@@ -1,6 +1,6 @@
-= Lecture Notes 5ahitm ITP 2021
-C. Eisserer, T.Stütz
-1.0.0, 2020-09-28: Lecture Notes for Informationtechnische Projekte / ITP
+= Lecture Notes 5ahitm - ITP 21/22
+T.Stütz
+1.0.0, 2021-09-17: Lecture Notes for Informationtechnische Projekte / ITP
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
@@ -20,6 +20,55 @@ endif::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
+== 2021-09-17
+
+|===
+|Thema |Gliederung
+
+|Ausgangssituation / Istzustand
+.5+|Was war (Was mache ich; warum mache ich)
+
+|Problemstellung
+
+|Ziel -> Leistungswirkung
+
+|Aufgabenstellung (Was gab es bereits)
+
+|Ergebnis -> Leistung
+
+|Wie weit sind wir?
+.2+|Was ist
+
+|Was funktioniert schon?
+
+|Was sind die nächsten Schritte?
+.2+|Was wird sein
+
+|Meilensteine für Projekt
+
+|===
+
+== 2021-10-15
+
+* Prof. Aberger: Deployment in oravm
+
+
+== 2021-12-03
+
+=== Testen
+
+image::v-modell.png[]
+
+== Testing Tools and Frameworks
+
+* junit
+
+
+
+
+
+
+////
 ====
 Vereinbarung:
 
@@ -148,7 +197,7 @@ Praktische Anwendung anhand von jax-rs ContainerRequestFilter, siehe at.ac.htlle
 ** https://github.com/quarkusio/quarkus/issues/1505[Batch-processing ist derzeit in Quarkus noch nicht implementiert]
 
 
-
+////
 
 
 

@@ -61,7 +61,39 @@ image::v-modell.png[]
 
 == Testing Tools and Frameworks
 
-* junit
+* programmcode
+** junit
+** assertJ-core
+** (hamcrest)
+* Datenbanken: überprüfen, ob Werte in DB korrekt
+** assertJ-db
+* Endpoints:Funktioen Endpoints korrekt
+** RESTassured
+** Karate
+* Mocking
+** Mockito
+
+
+
+== 2021-12-10
+
+=== Testen mit assertj-core und assertj-db
+
+* Projekt: test-demo
+
+=== Karate
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

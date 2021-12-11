@@ -6,3 +6,5 @@ asciidocs/revealjs/
 revealjs.zip
 gh-pages
 .idea/
+db/
+*.jar
